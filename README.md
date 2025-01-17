@@ -1,19 +1,3 @@
-<a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
-</a>
-
-<br/>
-<br/>
-
-# 0. Getting Started (시작하기)
-```bash
-$ npm start
-```
-[서비스 링크](https://club-project-one.vercel.app/)
-
-<br/>
-<br/>
-
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 모여봐요 동아리숲!
 - 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티
