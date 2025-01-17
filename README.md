@@ -1,88 +1,28 @@
+# 1. 프로젝트 개요
+Kubernetes를 활용한 3Tier 웹 서비스 구축
 
-# Project Name
+<br/>
+<br/>
 
-Provide a brief description of your project here. Explain the purpose or main functionality of the project.
+# 2. 프로젝트 기획 배경
+컨테이너 환경구성( Web : NginX ,WAS : Tomcat , DB : mariadb 사용)
 
-## Getting Started
+- WEB , WAS , DB 각각 3Tier 인프라 통신
+- 부하에 따른 Autoscaling 가능해야 하며 이를 증명
+- DB에 대한 정보 변경이 반드시 WAS에서 처리 가능
 
-This section should provide instructions on how to get a copy of the project up and running on a local machine for development and testing purposes.
+<br/>
+<br/>
 
-### Prerequisites
+# 3. 아키텍처
+![44444.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/28ac15ec-ceb9-4e66-b4ec-b6d88293f34e/82051f2b-7d2d-4a31-8f42-ce734c93e01f/44444.png)
 
-List all the prerequisites, the things you need to install the software, and how to install them.
 
-```
-Give examples
-```
+<br/>
+<br/>
 
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat:
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Running the Tests
-
-Explain how to run the automated tests for this system.
-
-### Break down into end-to-end tests
-
-Explain what these tests test and why.
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why.
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system.
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/your/project/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+# 4. Page
+![image](https://github.com/user-attachments/assets/71f88818-3910-4b36-8b3b-83d63c0ee12c)
+![image](https://github.com/user-attachments/assets/96c801b0-c762-4efd-860c-faec3ace0572)
+![image](https://github.com/user-attachments/assets/0e2bb83e-3f42-4288-9a14-37a079b59adb)
+![image](https://github.com/user-attachments/assets/40e3c5bf-7282-41c9-baf1-2701228c1259)
