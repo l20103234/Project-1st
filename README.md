@@ -15,7 +15,8 @@ Kubernetes를 활용한 3Tier 웹 서비스 구축
 <br/>
 
 # 3. 아키텍처
-![44444.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/28ac15ec-ceb9-4e66-b4ec-b6d88293f34e/82051f2b-7d2d-4a31-8f42-ce734c93e01f/44444.png)
+![image](https://github.com/user-attachments/assets/e02e7ec4-21b0-4d7c-ae09-2e041aaba3b6)
+
 
 
 <br/>
